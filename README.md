@@ -4,6 +4,12 @@
 Este projeto é um simulador de caixa eletrônico feito em Java. Ele permite ao usuário realizar operações básicas de uma conta bancária, como consultar saldo, depositar, sacar e sair do sistema.  
 O objetivo é praticar POO (Programação Orientada a Objetos), uso de classes e métodos, menu com switch e entrada de dados com Scanner.
 
+# Contexto do Projeto
+
+Este projeto foi originalmente desenvolvido por mim em uma conta antiga do GitHub, à qual não possuo mais acesso.
+
+Este repositório é um fork, mantido na minha conta atual para preservar o histórico do projeto e aplicar pequenas melhorias e refatorações conforme minha evolução no aprendizado de Java e Programação Orientada a Objetos.
+
 ## Funcionalidades
 
 - Consultar saldo atual
